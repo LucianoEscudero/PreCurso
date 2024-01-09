@@ -1,2 +1,1 @@
-# PreCurso
-Repositorio para el ''Prep Course Henry''.
+Proyecto de prueba.
